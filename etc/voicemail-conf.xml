@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<voicemail>
+
+
+    <!-- customer needs vm-->
+    <voicemail numeric="33805" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="338050" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="37201" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="372010" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="36302" carrier="" vmnumber="144" vmtag="" roamingvm=""/>
+    <voicemail numeric="36269" carrier="" vmnumber="144" vmtag="" roamingvm=""/>
+    <voicemail numeric="34020" carrier="" vmnumber="660" vmtag="" roamingvm=""/>
+    <voicemail numeric="73801" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="738010" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+	
+    <voicemail numeric="70601" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="706010" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="70602" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="706020" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="70603" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="706030" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>	
+    <voicemail numeric="70604" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+    <voicemail numeric="706040" carrier="" vmnumber="*123" vmtag="" roamingvm=""/>
+	
+    <voicemail numeric="37413" carrier="" vmnumber="123" vmtag="" roamingvm=""/>	
+    <voicemail numeric="374130" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+	
+    <voicemail numeric="53703" carrier="" vmnumber="555" vmtag="" roamingvm=""/>
+    <voicemail numeric="74603" carrier="" vmnumber="143" vmtag="" roamingvm=""/>	
+    <voicemail numeric="53988" carrier="" vmnumber="555" vmtag="" roamingvm=""/>
+    <voicemail numeric="54105" carrier="" vmnumber="555" vmtag="" roamingvm=""/>
+    <voicemail numeric="54202" carrier="" vmnumber="555" vmtag="" roamingvm=""/>
+    <voicemail numeric="348770" carrier="" vmnumber="#123" vmtag="" roamingvm=""/>
+    <voicemail numeric="71404" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="714040" carrier="" vmnumber="123" vmtag="" roamingvm=""/>	
+    <voicemail numeric="70804" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="708040" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="54900" carrier="" vmnumber="555" vmtag="" roamingvm=""/>
+    <voicemail numeric="35805" carrier="" vmnumber="123" vmtag="" roamingvm=""/>
+    <voicemail numeric="358050" carrier="" vmnumber="123" vmtag="" roamingvm=""/>		
+</voicemail>

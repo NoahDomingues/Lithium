@@ -1,0 +1,1 @@
+{"sdcard":false,"电池":false,"收音机测试":false,"背光":false,"蓝牙":false,"显示":false,"光感":true,"USB":true,"触摸":false,"信息":false,"WiFi":false,"喇叭":false,"按键测试":false,"WiFi吞吐量":true,"摄像头":true,"麦克风":false}

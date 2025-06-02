@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfGid1 version="1">
+<virtualSpnOverride mccmncgid1="2343040" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="3102606d38" name="MetroPCS"/>
+<virtualSpnOverride mccmncgid1="310260534d" name="SIMPLE MOBILE"/>
+<virtualSpnOverride mccmncgid1="310260deff" name="HOME"/>
+<virtualSpnOverride mccmncgid1="310410deff" name="HOME"/>
+<virtualSpnOverride mccmncgid1="3102604d4b" name="FAMILY MOBILE"/>
+<virtualSpnOverride mccmncgid1="310260554d" name="UNIVISION MOBILE"/>
+<virtualSpnOverride mccmncgid1="3102606132" name="ULTRA.ME"/>
+<virtualSpnOverride mccmncgid1="3104104201" name="AT&amp;T"/>
+<virtualSpnOverride mccmncgid1="30222154" name="TELUS"/>
+<virtualSpnOverride mccmncgid1="3022214B" name="Koodo"/>
+<virtualSpnOverride mccmncgid1="30222150" name="PC mobile"/>
+<virtualSpnOverride mccmncgid1="30222054" name="TELUS"/>
+<virtualSpnOverride mccmncgid1="3022204B" name="Koodo"/>
+<virtualSpnOverride mccmncgid1="30222050" name="PC mobile"/>
+<virtualSpnOverride mccmncgid1="3022204D4F" name="PC mobile"/>
+<virtualSpnOverride mccmncgid1="302720BA" name="Tbaytel Internet"/>
+<virtualSpnOverride mccmncgid1="3026602C" name="MTS"/>
+<virtualSpnOverride mccmncgid1="302370DD" name="Fido Internet"/>
+<virtualSpnOverride mccmncgid1="3053702C" name="MTS"/>
+</virtualSpnOverridesByEfGid1>
