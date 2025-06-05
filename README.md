@@ -51,3 +51,5 @@ If you have any issues using or installing Lithium, or would like to learn more,
 **⭐ If Lithium was of any use to you, please consider giving it a Star - it would make my day! ⭐**
 
 Thank you to [Palutenfan123](https://github.com/timmkoo) for helping out with this project, and for providing the hosting services for our [website](https://lithium.timmkoo.de). He maintains his own custom ROM, called T-ROM, available [here](https://timmkoo.de).
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3zbfaTNN7V)
