@@ -3,11 +3,11 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 
 [<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
 
-## Lithium 5: The Ultimate Android 5-based Operating System
+## 🧪 Lithium 5: The Ultimate Android 5-based Operating System
 
 **[Lithium 5](https://lithium.timmkoo.de)** is the latest custom operating system from the Lithium project, providing a seamless user experience with high performance and jam-packed with features. Lithium 5 is based on the **[Android Open-Source Project (AOSP) version 5.0 Lollipop](https://developer.android.com/about/versions/lollipop)**, adapted specifically for Timmkoo and Innioasis devices.
 
-## Features
+## ⭐ Features
 
 **Lithium 5** brings a wide range of features, including:
 
@@ -26,7 +26,7 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 - [Planned] Lithium Store
 - [Planned] Li AI
 
-## Devices
+## 📱 Devices
 
 **Lithium 5** is officially supported and tested on the following devices:
 
@@ -42,7 +42,7 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 
 - Timmkoo Q8
 
-## Support
+## 🤝 Support
 
 If you have any issues using or installing Lithium, or would like to learn more, feel free to join our **[Discord server](https://discord.gg/3zbfaTNN7V)** and get involved! We are always looking for people interested in contributing to the project too, if you have any experience in Android development or would like to learn, join us!
 
