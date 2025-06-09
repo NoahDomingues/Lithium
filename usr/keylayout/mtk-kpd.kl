@@ -26,8 +26,7 @@ key 61    CALL
 key 232   DPAD_CENTER
 key 108   DPAD_DOWN
 key 103   DPAD_UP
-key 102   MOVE_HOME
-key 172		HOME
+key 102   HOME
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 115   VOLUME_UP         
