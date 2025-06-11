@@ -100,6 +100,9 @@ qemu.hw.mainkeys=0
 ro.camera.sound.forced=0
 ro.audio.silent=0
 
+# Attempted audio fix (06 June 2025)
+ro.mtk_pzospk.support=1
+
 ro.zygote.preload.enable=0
 
 ro.kernel.zio=38,108,105,16
@@ -212,9 +215,9 @@ dalvik.vm.image-dex2oat-threads=8
 media.sf.omx-plugin=libffmpeg_omx.so
 media.sf.extractor-plugin=libffmpeg_extractor.so
 ro.storage_manager.enabled=true
-ro.bs.version=BeanStalk-7.1.2-20180507-Q340
-ro.modversion=BeanStalk-7.1.2-20180507-Q340
-ro.bs.display.version=BeanStalk-7.1.2-20180507-Q340
+ro.bs.version=Lithium 7 v7.1.06.09.25
+ro.modversion=Lithium 7
+ro.bs.display.version=Lithium 7
 ro.config.ringtone=Orion.ogg
 ro.opa.eligible_device=true
 persist.sys.dalvik.vm.lib.2=libart.so
