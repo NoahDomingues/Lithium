@@ -51,6 +51,8 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 There are some currently known issues with Lithium 7, which we are working on fixing. Some of these are:
 
 - No audio from speakers
+- Settings app will crash when trying to perform certain functions
+- Unable to view or connect to available WiFi networks (however, this has only been reported once so far)
 
 ## 🤝 Support
 
