@@ -56,7 +56,7 @@ There are some currently known issues with Lithium 7, which we are working on fi
 
 ## 🤝 Support
 
-If you have any issues using or installing Lithium, or would like to learn more, feel free to join our **[Discord server](https://discord.gg/3zbfaTNN7V)** and get involved! We are always looking for people interested in contributing to the project too, if you have any experience in Android development or would like to learn, join us!
+If you have any issues using or installing Lithium, or would like to learn more, feel free to join our **[Discord server](https://discord.gg/3zbfaTNN7V)** and get involved! We are always looking for people interested in contributing to the project too, if you have any experience in Android development or would like to learn, join us! We recommend joining for updates, and even to just to hang out with the community - we even have our own Minecraft server!
 
 [<img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96">](https://discord.gg/3zbfaTNN7V)
 
