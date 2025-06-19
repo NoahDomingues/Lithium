@@ -6,7 +6,7 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 
 ## 🧪 Lithium 7: The Ultimate Android 7.1-based Operating System
 
-**[Lithium 7](https://lithium.timmkoo.de)** is the latest custom operating system from the Lithium project, providing a seamless user experience with high performance and jam-packed with features. Lithium 5 is based on the **[Android Open-Source Project (AOSP) version 7.1 Nougat](https://developer.android.com/about/versions/nougat/android-7.1)**, adapted specifically for Timmkoo and Innioasis devices.
+**[Lithium 7](https://lithium.timmkoo.de)** is the latest custom operating system from the Lithium project, providing a seamless user experience with high performance and jam-packed with features. Lithium 7 is based on the **[Android Open-Source Project (AOSP) version 7.1 Nougat](https://developer.android.com/about/versions/nougat/android-7.1)**, adapted specifically for Timmkoo and Innioasis devices.
 
 ## ⭐ Features
 
