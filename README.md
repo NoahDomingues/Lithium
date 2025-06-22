@@ -65,3 +65,7 @@ If you have any issues using or installing Lithium, or would like to learn more,
 This project was made possible entirely with the efforts of **[Palutenfan123](https://github.com/timmkoo)**. It was his discovery and his work that brought this into existence; therefore, he deserves full credit for it. Also thanks to him for providing the hosting services for our [website](https://lithium.timmkoo.de). He maintains his own custom ROM, called T-ROM, available [here](https://timmkoo.de).
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3zbfaTNN7V)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
