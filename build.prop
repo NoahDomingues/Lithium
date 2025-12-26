@@ -18,11 +18,11 @@ ro.build.user=queen
 ro.build.host=scmbuild
 ro.build.tags=release-keys
 ro.build.flavor=dot_Q340-userdebug
-ro.product.model=Lithium
+ro.product.model=Timmkoo Q3
 ro.product.brand=Lithium
-ro.product.name=Lithium
-ro.product.device=Lithium
-ro.product.board=
+ro.product.name=MX2_WV3
+ro.product.device=MX2
+ro.product.board=mt6582
 # ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
 # use ro.product.cpu.abilist instead.
 ro.product.cpu.abi=armeabi-v7a
@@ -159,7 +159,7 @@ ro.media.capture.maxres=8m
 ro.media.panorama.defres=3264×1840
 ro.media.panorama.frameres=1280×720
 ro.camcorder.videoModes=true
-ro.media.enc.hprof.vid.fps=65
+ro.media.enc.hprof.vid.fps=60
 net.tcp.buffersize.default=4096,87380,256960, 4096, 16384,256960
 net.tcp.buffersize.wifi=4096,87380,256960,409 6,163 84,256960
 net.tcp.buffersize.umts=4096,8 7380,256960,4096,163 84,256960
@@ -194,7 +194,7 @@ debug.performance.tuning=1
 #
 # ADDITIONAL_BUILD_PROPERTIES
 #
-keyguard.no_require_sim=false
+keyguard.no_require_sim=true
 ro.carrier=unknown
 dalvik.vm.heapstartsize=8m
 dalvik.vm.heapgrowthlimit=192m
@@ -223,7 +223,7 @@ ro.opa.eligible_device=true
 persist.sys.dalvik.vm.lib.2=libart.so
 dalvik.vm.isa.arm.variant=cortex-a7
 dalvik.vm.isa.arm.features=default
-net.bt.name=Android
+net.bt.name=TimmkooMP3
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
 ro.bootimage.build.fingerprint=MICROMAX/bs_Q340/Q340:7.1.2/NJH47D/d0f0744045:userdebug/test-keys
 ro.expect.recovery_id=0xfe8886e6059a1997f205e36189a226e68b2c6640000000000000000000000000
@@ -318,7 +318,7 @@ net.ipv6.tcp_moderate_rcvbuf=1
 net.tethering.noprovisioning=true
 
 # Gaming Tweaks
-persist.sys.NV_FPSLIMIT=90
+persist.sys.NV_FPSLIMIT=60
 persist.sys.NV_POWERMODE=1
 persist.sys.NV_PROFVER=15
 persist.sys.NV_STEREOCTRL=0
